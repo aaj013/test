@@ -1,4 +1,4 @@
-checking
+conflict checking
 added line
 asjlasdhgjksdh
 asgbasdkgb;SDKL;GHJLDSHKLGJHSDJKLN
